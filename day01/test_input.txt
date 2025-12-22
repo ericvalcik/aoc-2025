@@ -1,2 +1,10 @@
-# Paste test input here (optional)
-
+L232
+L30
+R48
+L543
+R60
+L553
+L1
+L99
+R14
+L82

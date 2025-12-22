@@ -4,6 +4,12 @@ Advent of Code 2025 - Day XX Template
 Copy this file to dayXX/solution.py and fill in your solution.
 """
 
+import sys
+from pathlib import Path
+
+# Add parent directory to path to import utils
+sys.path.insert(0, str(Path(__file__).parent.parent))
+
 from utils import read_input, read_input_raw
 
 
